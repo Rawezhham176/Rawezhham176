@@ -1,6 +1,6 @@
-### Hi, Rawezh is here 👋
+## Hi, Rawezh is here 👋
 
-I'm from Germany and doing content on Graphic Design and Software Development 
+# I'm from Germany and doing content on Graphic Design and Software Development 
 
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning JavaScript(React, React Nativ, Next.js, Three.js), Swift, Kotlin and Blender 
