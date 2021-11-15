@@ -6,3 +6,6 @@
 - 💬 Ask me about everything
 - 📫 How to reach me: https://www.linkedin.com/in/rawezh-hama-404778211?originalSubdomain=de
 - ⚡ Fun fact: Until I was 10, I believed that Kratos was my father.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawezhham176&hide=contribs,prs)
+
