@@ -10,4 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawezhham176&hide=contribs,prs)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rawezhham176&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rawezhham176&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
