@@ -10,7 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawezhham176&hide=contribs,prs)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rawezhham176&theme=onedark)
-![](https://komarev.com/ghpvc/?username=Rawezhham176&color=green)
 
 
 
