@@ -9,5 +9,5 @@
 - ⚡ Fun fact: Until I was 10, I believed that Kratos was my father.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawezhham176&hide=contribs,prs)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
